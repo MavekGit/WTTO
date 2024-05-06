@@ -1,0 +1,48 @@
+W katalogu Predictions umieszczone są wyniki przewidywania struktury
+drugorzędowej białek (SC, ang. secondary structure). W każdym z plików umieszczono:
+- czteroznakową nazwę białka,
+- tabelę z czterema kolumnami (z linijką nagłówka):
+  - oznaczeniem aminokwasu (AA, ang. amino acid)
+  - pomocniczą czwórką oznaczeń struktury drugorzędowej,
+  - jednoliterowy symbol struktury drugorzędowej przewidzianej pewną metodą,
+  - jednoliterowy symbol struktury drugorzędowej przewidzianej inną metodą.
+Nazwa pliku zaczyna się czteroliterową nazwą białka.
+
+Należy przygotować podsumowanie wyników z tych plików w pojedynczym pliku tekstowym,
+zawierającym dla każdego z nich pięć linii tekstu:
+- nazwę białka poprzedzoną znakami "> ",
+- strukturę pierwszorzędową jako ciąg jednoliterowych oznaczeń aminokwasów,
+- wynik przewidywania struktury drugorzędowej pierwszą metodą,
+- wynik przewidywania struktury drugorzędowej drugą metodą,
+- pusty wiersz.
+
+Fragment oczekiwanych wyników znajduje się w pliku wynik_przykładowy.txt.
+
+
+Nazwy aminokwasów trzyliterowe i jednoliterowe:
+
+ALA A alanina
+CYS C cysteina
+ASP D kwas asparaginowy
+GLU E kwas glutaminowy
+PHE F fenyloalanina
+GLY G glicyna
+HIS H histydyna
+ILE I izoleucyna
+LYS K lizyna
+LEU L leucyna
+MET M metionina
+ASN N asparagina
+PRO P prolina
+GLN Q glutamina
+ARG R arginina
+SER S seryna
+THR T treonina
+VAL V walina
+TRP X tryptofan
+TYR Y tyrozyna
+
+https://pl.wikipedia.org/wiki/Aminokwasy_bia%C5%82kowe
+
+
+  

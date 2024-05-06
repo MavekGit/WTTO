@@ -1,0 +1,27 @@
+Nazwy aminokwasów
+
+ALA A alanina
+CYS C cysteina
+ASP D kwas asparaginowy
+GLU E kwas glutaminowy
+PHE F fenyloalanina
+GLY G glicyna
+HIS H histydyna
+ILE I izoleucyna
+LYS K lizyna
+LEU L leucyna
+MET M metionina
+ASN N asparagina
+PRO P prolina
+GLN Q glutamina
+ARG R arginina
+SER S seryna
+THR T treonina
+VAL V walina
+TRP X tryptofan
+TYR Y tyrozyna
+
+https://pl.wikipedia.org/wiki/Aminokwasy_bia%C5%82kowe
+
+
+
